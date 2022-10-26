@@ -1,4 +1,6 @@
-# uts
+# Berikut tampilan output nya :
+
+![uts](https://user-images.githubusercontent.com/116096046/197907296-46d1bae8-8d55-4636-b226-46be387f36ed.png)
 
 A new Flutter project.
 
